@@ -1,0 +1,116 @@
+/* luxury */
+.luxury {
+    background: url(../../home/luxury/bg.jpg) center no-repeat fixed;
+    background-size: cover;
+    width: 100%;
+    padding: 44px 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.box {
+    background-color: #E0B973;
+    position: relative;
+    top: -44px;
+    left: 0;
+    padding: 44px 40px;
+    border-bottom-right-radius: 45px;
+    border-bottom-left-radius: 45px;
+
+    text-align: center;
+    font-weight: 700;
+    color: #14274A;
+}
+.logo {
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0.15em;
+}
+.sublogo {
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.6em;
+}
+
+.nav ul{
+    display: flex;
+}
+.link {
+    margin-right: 80px;
+}
+.link:last-child {
+    margin-right: 0px;
+}
+.link a {
+    color: #ffff;
+    font-size: 25px;
+    line-height: 30px;
+    transition: 0.4s;
+}
+.link a:hover {
+    text-decoration: underline;
+}
+/* //////////////////////// */
+
+/* luxury__page */
+.luxury__page {
+    color: #ffff;
+    margin-bottom: 90px;
+    text-transform: uppercase;
+}
+.luxury__welcome {
+    font-size: 50px;
+    line-height: 61px;
+    margin-bottom: -40px;
+}
+.luxury__title {
+    font-weight: 700;
+    font-size: 154px;
+    line-height: 185px;
+    letter-spacing: 0.07em;
+    margin-bottom: -40px;
+}
+.luxury__subtitle {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 0.4em;
+}
+.luxury__text {
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.1em;
+    text-transform: none;
+    max-width: 600px;
+}
+/* //////////////////////// */
+
+/* luxury__book */
+.luxury__book {
+    text-align: center;
+}
+.luxury__btn {
+    background: #E0B973;
+    border-radius: 4px;
+    padding: 22px;
+    margin-bottom: 40px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px; 
+    color: #ffff;
+}
+.block__scroll span {
+    display: block;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #ffff;
+    margin-bottom: 15px;
+}
+.block__scroll img {
+    width: 60px;
+}
