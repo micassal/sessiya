@@ -1,0 +1,7 @@
+@import url(./base.css);
+.luxury {
+    background: url(../facilities/luxuru2/bg.jpg) center no-repeat fixed;
+    background-size: cover;
+    width: 100%;
+    padding: 44px 0;
+}

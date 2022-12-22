@@ -1,0 +1,53 @@
+@import url(./base.css);
+.luxury {
+    background: url(../rooms/luxuru3/bg.jpg) center no-repeat fixed;
+    background-size: cover;
+    width: 100%;
+    padding: 44px 0;
+}
+
+
+.facilities__block {
+    border: 2px solid #14274A;
+    border-radius: 0px 0px 15px 15px;
+    margin-bottom: 80px;
+}
+.facilities__images {
+    max-width: 1477px;
+}
+.facilities__box {
+    background: #14274A;
+    padding: 40px 0;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    
+    color: #FFFFFF;
+}
+.facilities__details {
+    padding: 80px 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pluse {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;    
+    background-color: Transparent;
+}
+.pluse img {
+    margin-right: 40px;
+}
+.facilities__btn {
+    background: #E0B973;
+    border-radius: 1px;
+    padding: 25px 45px;
+
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}

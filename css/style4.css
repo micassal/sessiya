@@ -1,0 +1,57 @@
+@import url(./base.css);
+.luxury {
+    background: #14274A;
+    max-height: 465px;
+}
+.header {
+    margin-bottom: 45px;
+}
+.luxuru__contact {
+    text-align: center;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 98px;
+}
+.facilities {
+    padding-bottom: 80px;
+}
+.facilities__inner {
+    text-align: start;
+}
+
+.facilities__content {
+    display: flex;
+    justify-content: space-between;
+}
+.left__block {
+    font-size: 40px;
+    line-height: 49px;
+    color: #14274A;
+}
+.bottom {
+    margin-bottom: 30px;
+}
+.form__box {
+    font-size: 25px;
+    line-height: 29px;
+    color: #14274A;
+    margin-bottom: 30px;
+}
+.form__box input {
+    background: #FFFFFF;
+    border: 2px solid rgba(20, 39, 74, 0.5);
+    min-height: 80px;
+    width: 570px;
+}
+
+.facilities__btn {
+    display: flex;
+    background: #E0B973;
+    border-radius: 1px;
+    padding: 25px 25px;
+
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
