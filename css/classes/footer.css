@@ -1,0 +1,60 @@
+.footer {
+    background: #14274A;
+    padding: 100px 0 65px;
+
+    font-size: 16px;
+    line-height: 20px;
+    color: #F7F7F7;
+}
+.footer__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.address__img {
+    max-width: 118px;
+    height: auto;
+}
+.address__text {
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    max-width: 265px;
+}
+
+.footer__menu {
+    display: flex;
+    flex-direction: column;
+}
+.menu__link {
+    margin-bottom: 15px;
+    color: #F7F7F7;
+}
+
+.messenger__box {
+    display: flex;
+    margin-bottom: 15px;
+}
+.messenger__icon {
+    max-width: 15px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.subscribe__text {
+    margin-bottom: 30px;
+}
+.subscribe__block {
+    display: flex;
+}
+.subscribe__email {
+    max-width: 275px;
+    padding: 15px 0 15px 25px;
+    background-color: transparent;
+    color: #F7F7F7;
+    border: 2px solid #E0B973;
+}
+.subscribe__btn {
+    padding: 15px 25px;
+    background: #E0B973;
+}
